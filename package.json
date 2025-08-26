@@ -1,24 +1,23 @@
 {
-  "name": "oloquinho",
-  "version": "1.1.1",
-  "description": "Oloquinho meu",
+  "name": "cocorico",
+  "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/luanorlandi/oloquinho.git"
+    "url": "git+ssh://git@github.com/henriquecouto/cocorico.git"
   },
-  "author": "Luan Orlandi <luanorlandi@gmail.com>",
+  "author": "Henrique Couto <email@henriquecouto.dev>",
   "license": "MIT",
   "bin": {
-    "oloquinho": "./src/cli.js"
+    "cocorico": "./src/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/luanorlandi/oloquinho/issues"
+    "url": "https://github.com/henriquecouto/cocorico/issues"
   },
-  "homepage": "https://github.com/luanorlandi/oloquinho#readme",
+  "homepage": "https://github.com/henriquecouto/cocorico#readme",
   "dependencies": {
     "meow": "^8.0.0"
   }
